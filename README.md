@@ -42,7 +42,3 @@ El objetivo es proporcionar una herramienta que facilite el análisis y diagnós
    - Tkinter
    - PIL (Pillow)
 
-Instala las dependencias ejecutando:
-
-```bash
-pip install -r requirements.txt
